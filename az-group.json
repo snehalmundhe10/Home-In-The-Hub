@@ -1,0 +1,11 @@
+{
+  "id": "/subscriptions/310f5136-a22d-43be-aa0c-4ea58289da97/resourceGroups/myResourceGroup",
+  "location": "northcentralus",
+  "managedBy": null,
+  "name": "myResourceGroup",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": null,
+  "type": null
+}

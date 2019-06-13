@@ -1,0 +1,48 @@
+{
+  "capabilities": [],
+  "consistencyPolicy": {
+    "defaultConsistencyLevel": "Session",
+    "maxIntervalInSeconds": 5,
+    "maxStalenessPrefix": 100
+  },
+  "databaseAccountOfferType": "Standard",
+  "documentEndpoint": "https://homeinthehubbos.documents.azure.com:443/",
+  "enableAutomaticFailover": false,
+  "enableMultipleWriteLocations": false,
+  "failoverPolicies": [
+    {
+      "failoverPriority": 0,
+      "id": "homeinthehubbos-northcentralus",
+      "locationName": "North Central US"
+    }
+  ],
+  "id": "/subscriptions/310f5136-a22d-43be-aa0c-4ea58289da97/resourceGroups/myResourceGroup/providers/Microsoft.DocumentDB/databaseAccounts/homeinthehubbos",
+  "ipRangeFilter": "",
+  "isVirtualNetworkFilterEnabled": false,
+  "kind": "MongoDB",
+  "location": "North Central US",
+  "name": "homeinthehubbos",
+  "provisioningState": "Succeeded",
+  "readLocations": [
+    {
+      "documentEndpoint": "https://homeinthehubbos-northcentralus.documents.azure.com:443/",
+      "failoverPriority": 0,
+      "id": "homeinthehubbos-northcentralus",
+      "locationName": "North Central US",
+      "provisioningState": "Succeeded"
+    }
+  ],
+  "resourceGroup": "myResourceGroup",
+  "tags": {},
+  "type": "Microsoft.DocumentDB/databaseAccounts",
+  "virtualNetworkRules": [],
+  "writeLocations": [
+    {
+      "documentEndpoint": "https://homeinthehubbos-northcentralus.documents.azure.com:443/",
+      "failoverPriority": 0,
+      "id": "homeinthehubbos-northcentralus",
+      "locationName": "North Central US",
+      "provisioningState": "Succeeded"
+    }
+  ]
+}
