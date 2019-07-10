@@ -1,6 +1,6 @@
 # Home-In-The-Hub
 
-### Contributers
+### Other Contributers
 1) Zee Nguyen
 2) Shruthi Raghuraman
 3) Hannah Weiner
