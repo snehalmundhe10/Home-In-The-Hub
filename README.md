@@ -16,5 +16,4 @@ The website we've built provides a medium for those in need to find various reso
 ![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/blob/master/images/home1.jpg "home1")
 ![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/blob/master/images/home2.jpg "home2")
 ![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/blob/master/images/home3.jpg "home3")
-![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/blob/master/images/home4.jpg "home4")
 
