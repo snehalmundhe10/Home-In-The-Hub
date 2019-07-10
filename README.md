@@ -13,4 +13,4 @@ The website we've built provides a medium for those in need to find various reso
 
 
 ### Snapshots of the Application
-![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/tree/master/images/home1.jpg   "home1")
+![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/blob/master/images/home1.jpg "home1")
