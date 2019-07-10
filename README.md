@@ -10,3 +10,7 @@ The City of Boston has a large number of homeless people. Especially in the wint
 
 ### What it does
 The website we've built provides a medium for those in need to find various resources such as food, shelter, healthcare, and community support. Additionally, organizations, families, students or whoever wants to give back to the community can register events and donations in seconds.
+
+
+### Snapshots of the Application
+![alt text](https://github.com/snehalmundhe10/Home-In-The-Hub/tree/master/images/home1.jpg "home1")
