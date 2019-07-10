@@ -1,4 +1,5 @@
-# Home-In-The-Hub
+# Home-In-The-Hub(Hackathon Project)
+### TechTogether Boston Hackathon:- Boston's Largest All-Female & Femme Non-binary Hackathon
 As of December, Boston’s homelessness is up 14%.
 
 Thankfully, there are an incredible amount of resources available for the homeless population in our city: from churches hosting shelters, to restaurants giving out leftover food, to libraries providing free professional workshops.
